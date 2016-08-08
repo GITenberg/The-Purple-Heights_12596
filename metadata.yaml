@@ -1,0 +1,24 @@
+_repo: The-Purple-Heights_12596
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oemler, Marie Conway
+    birthdate: 1879
+    deathdate: 1932
+    gutenberg_agent_id: '4443'
+    url: http://www.gutenberg.org/2009/agents/4443
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12596'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'South Carolina -- Fiction'
+- GITenberg
+title: The Purple Heights
+url: http://www.gutenberg.org/ebooks/12596
